@@ -20,4 +20,4 @@ Use `flag=false` in the `WikipediaContent` component for un-scrollable content.
 
 ## Demo
 
-![Demo](./Demo.gif)
+<img src="./Demo.gif" alt="Demo" width="800"/>
